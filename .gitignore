@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+model/line-drawings.onnx
+model/line-relifer.onnx
+test/
 # C extensions
 *.so
 
