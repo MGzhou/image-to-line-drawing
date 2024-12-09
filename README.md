@@ -19,9 +19,12 @@ pip install -r requirements.txt
 
 将 `line-drawings.onnx` 和 `line-relifer.onnx` 模型文件下载放置在`model`文件夹下: 
 
-| 方式       | 地址                                                         |
-| ---------- | ------------------------------------------------------------ |
-| modelscope | [download](https://modelscope.cn/models/mscoder/image-to-line-drawing-onnx/summary) |
+| 方式        | 地址                                                         |
+| ----------- | ------------------------------------------------------------ |
+| modelscope  | [download](https://modelscope.cn/models/mscoder/image-to-line-drawing-onnx/summary) |
+| huggingface | [download](https://huggingface.co/Luoaho/image-to-line-drawing-onnx) |
+
+
 
 ### 2.3 使用代码
 
